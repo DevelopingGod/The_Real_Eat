@@ -1,0 +1,484 @@
+body {
+  text-align: center;
+}
+
+h1 {
+  position: relative;
+  bottom: 120px;
+  font-size: 6rem;
+  font-family:'Sofia', cursive;
+  color: #3d7ea6;
+}
+
+h2 {
+    font-family: 'Berkshire Swash', cursive;
+    font-size: 4rem;
+    padding-bottom: 200px;
+    color: #3d7ea6;
+}
+
+hr{
+  border: dotted #9ddfd3 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+
+
+th {
+  font-size: 1.2rem;
+  width: 200px;
+}
+
+td {
+  font-size: 1rem;
+}
+
+th, td {
+  padding: 5px;
+  text-align: center;
+  border-bottom: 1px solid #790c5a;
+}
+
+
+.beverage_image{
+  position: relative;
+  right: 320px;
+  bottom: 70px;
+}
+
+.bottom_container {
+  position: relative;
+  background-color: #dbf6e9;
+  padding-top: 1px;
+  padding-bottom: 80px;;
+  height: 500px;
+  margin-bottom: none;
+}
+
+.BUTTON_CDX {
+   position: relative;
+   bottom: 180px;
+   background: #fca3cc;
+   background-image: -webkit-linear-gradient(top, #fca3cc, #fca3cc);
+   background-image: -moz-linear-gradient(top, #fca3cc,#fca3cc);
+   background-image: -ms-linear-gradient(top, #fca3cc, #fca3cc);
+   background-image: -o-linear-gradient(top, #fca3cc, #fca3cc);
+   background-image: -webkit-gradient(to bottom, #fca3cc, #fca3cc);
+   -webkit-border-radius: 10px;
+   -moz-border-radius: 10px;
+   border-radius: 5px;
+   color: blue;
+   font-family: serif;
+   font-size: 25px;
+   font-weight: normal;
+   padding: 10px;
+   -webkit-box-shadow: 1px 1px 10px 0 #000000;
+   -moz-box-shadow: 1px 1px 10px 0 #000000;
+   box-shadow: 1px 1px 10px 0 #000000;
+   text-shadow: 1px 1px 10px #000000;
+   border: solid #fca3cc 0.5px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_CDX:hover {
+   color: white;
+   border: solid green 1px;
+   background: green;
+   background-image: -webkit-linear-gradient(top, green, green);
+   background-image: -moz-linear-gradient(top, green, green);
+   background-image: -ms-linear-gradient(top, green, green);
+   background-image: -o-linear-gradient(top, green, green);
+   background-image: -webkit-gradient(to bottom, green, green);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.copyright {
+  position: relative;
+  bottom: 150px;
+  font-family: 'ZCOOL XiaoWei', serif;
+  font-size: 1rem;
+  color: #31326f;
+}
+
+.def {
+  color: #19d3da;
+  font-size: 1.7rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 200px;
+}
+
+.cold_drink {
+  position: relative;
+  left: 360px;
+  bottom: 240px;
+  border-radius: 100%;
+
+}
+
+.middle_container_1 {
+  position: relative;
+  background-color: #dbf6e9;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+
+}
+
+.middle_container_2 {
+  position: relative;
+  background-color: #f0e5d8;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.middle_container_3 {
+  position: relative;
+  background-color: #dbf6e9;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.middle_container_4 {
+  position: relative;
+  background-color: #f0e5d8;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.middle_container_5 {
+  position: relative;
+  background-color: #dbf6e9;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.middle_container_6 {
+  position: relative;
+  background-color: #f0e5d8;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.middle_container_7 {
+  position: relative;
+  background-color: #dbf6e9;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.middle_container_8 {
+  position: relative;
+  background-color: #f0e5d8;
+  padding-top: 10px;
+  padding-bottom: 0;
+  height: 800px;
+}
+
+.Beverages{
+  width: 70%;
+  margin: 20px 190px;
+  position: relative;
+}
+
+.beverage_menu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.beverage_dishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 380px;
+  bottom: 320px;
+}
+
+.snacks_title{
+  width: 70%;
+  margin: 20px 160px;
+}
+
+.snacks_image{
+  position: relative;
+  left: 400px;
+  bottom: 70px;
+}
+
+.snacks_menu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.snacks_dishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 220px;
+  bottom: 320px;
+}
+
+.starter{
+  width: 50%;
+  margin: 20px 280px;
+}
+
+.starter_title{
+  border-radius: 100%;
+  position: relative;
+  right: 320px;
+  bottom: 70px;
+}
+
+.starter_menu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.starter_dishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 380px;
+  bottom: 340px;
+}
+
+.pizza1 {
+  position: relative;
+  bottom: 50px;
+  left: 350px;
+}
+
+.plate {
+  position: relative;
+  bottom: 220px;
+  right: 350px;
+}
+
+.main_course{
+  width: 50%;
+  margin: 20px 280px;
+}
+
+.main_course_image {
+  border-radius: 100%;
+  position: relative;
+  left: 360px;
+  bottom: 40px;
+}
+
+
+.main_course_menu{
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.main_course_dishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 220px;
+  bottom: 320px;
+}
+
+.roti {
+    width: 50%;
+    margin: 20px 280px;
+}
+
+.roti_image {
+  border-radius: 100%;
+  position: relative;
+  right: 320px;
+  bottom: 70px;
+}
+
+.roti_menu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.roti_dishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 360px;
+  bottom: 320px;
+}
+
+.rice {
+  width: 50%;
+  margin: 20px 280px;
+}
+
+.rice_image {
+  border-radius: 100%;
+  position: relative;
+  left: 360px;
+  bottom: 70px;
+}
+
+.rice_menu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.rice_dishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 200px;
+  bottom: 320px;
+}
+
+.dal {
+  width: 50%;
+  margin: 20px 280px;
+}
+
+.dal_image {
+  border-radius: 100%;
+  position: relative;
+  right: 320px;
+  bottom: 70px;
+}
+
+.dal_menu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.dal_dishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 360px;
+  bottom: 320px;
+}
+
+.dessert {
+  width: 50%;
+  margin: 20px 280px;
+}
+
+.dessert_image {
+  border-radius: 100%;
+  position: relative;
+  left: 360px;
+  bottom: 70px;
+}
+
+.dessert_menu {
+  color: black;
+  font-size: 2rem;
+  font-family: 'ZCOOL XiaoWei', serif;
+  position: relative;
+  bottom: 350px;
+}
+
+.dessert_dishes {
+  font-family: 'ZCOOL XiaoWei', serif;
+  border: 2px solid #790c5a;
+  position: relative;
+  left: 200px;
+  bottom: 320px;
+}
+
+.subtitle {
+  font-family: 'Berkshire Swash', cursive;
+  font-size: 4rem;
+  padding-bottom: 200px;
+  color: #1597bb;
+  position: relative;
+  bottom: 150px;
+  margin: auto;
+}
+
+.top_container{
+  background-color: #f0e5d8;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 0px;
+  height: 600px;
+}
+
+.veg {
+  position: relative;
+  padding-bottom: 0;
+  right: 320px;
+  bottom: 50px;
+}
+
+.wait {
+  font-size: 40px;
+  color: #1597bb;
+  width: 80%;
+  margin: 20px 110px;
+}
+
+
+/* For Css */
+.contus {
+  background-color: #dbf6e9;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+.contact {
+  position: relative;
+  width: 60%;
+  margin: auto;
+  font-size: 48px;
+  color: #150485;
+}
+
+.line {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  position: relative;
+  bottom: 200px;
+}
+
+.ways {
+  color: black;
+  font-size: 25px;
+  text-align: left;
+  position: relative;
+  bottom: 220px;
+}
